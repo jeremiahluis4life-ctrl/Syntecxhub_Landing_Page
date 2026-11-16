@@ -1,0 +1,109 @@
+{
+ "note": "Credits for the photographs in this folder: photos.mjs credits prints the footer block for the ones the pages use.",
+ "photos": [
+  {
+   "file": "photo-f147143963.webp",
+   "files": [
+    "photo-f147143963-500.webp",
+    "photo-f147143963-960.webp",
+    "photo-f147143963.webp"
+   ],
+   "id": "f147143963",
+   "alt": "Fresh hot roasted coffee beans",
+   "by": "Jameswasswa",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Fresh_hot_roasted_coffee_beans.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f70214599.webp",
+   "files": [
+    "photo-f70214599-500.webp",
+    "photo-f70214599-960.webp",
+    "photo-f70214599.webp"
+   ],
+   "id": "f70214599",
+   "alt": "Manual drip (pour-over) coffee",
+   "by": "Kim Sanso",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Manual_drip_(pour-over)_coffee.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f153693217.webp",
+   "files": [
+    "photo-f153693217-500.webp",
+    "photo-f153693217-960.webp",
+    "photo-f153693217.webp"
+   ],
+   "id": "f153693217",
+   "alt": "Drip filter coffee after pouring water",
+   "by": "Suginami",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Drip_filter_coffee_after_pouring_water.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f15864048.webp",
+   "files": [
+    "photo-f15864048-500.webp",
+    "photo-f15864048-960.webp",
+    "photo-f15864048.webp"
+   ],
+   "id": "f15864048",
+   "alt": "Coffee Roasting",
+   "by": "Almonroth",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_Roasting.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f128190596.webp",
+   "files": [
+    "photo-f128190596-500.webp",
+    "photo-f128190596-960.webp",
+    "photo-f128190596.webp"
+   ],
+   "id": "f128190596",
+   "alt": "Coffee Beans, color (28183654506)",
+   "by": "Chuck Grimmett from Yonkers, NY, United States of America",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_Beans,_color_(28183654506).jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f148649331.webp",
+   "files": [
+    "photo-f148649331-500.webp",
+    "photo-f148649331-960.webp",
+    "photo-f148649331.webp"
+   ],
+   "id": "f148649331",
+   "alt": "Coffee Pour Over Setup",
+   "by": "Cerebral726",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_Pour_Over_Setup.jpg",
+   "source": "Wikimedia Commons"
+  },
+  {
+   "file": "photo-f164865773-960.webp",
+   "files": [
+    "photo-f164865773-500.webp",
+    "photo-f164865773-960.webp"
+   ],
+   "id": "f164865773",
+   "alt": "Coffee beans Philippines CNE",
+   "by": "CNEcija12345",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "page": "https://commons.wikimedia.org/wiki/File:Coffee_beans_Philippines_CNE.jpg",
+   "source": "Wikimedia Commons"
+  }
+ ]
+}
